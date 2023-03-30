@@ -1,3 +1,7 @@
 # Historia de la rama master
 
 hace unos dias este curso empezo y dentro de poco acabara...
+
+# Inicios de la rama
+
+Empezo llamandose Master
